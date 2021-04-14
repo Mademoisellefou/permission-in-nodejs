@@ -2,7 +2,7 @@
 
 ## Explained
 
-# 1. GET
+### 1. GET
 
 **app.get("/admin") for access to _adminPage_ it has 2 functions.**
 
